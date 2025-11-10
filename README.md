@@ -1,0 +1,1 @@
+# Land-Classification-Using-Satellite-Imagery
