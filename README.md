@@ -33,10 +33,6 @@ ee.Initialize()
 with                                                                         
 ee.Initialize(project="your-project-name")                                   
 Change "your-project-name" with your actual google cloud or earth engine project Id
-
-
-
-Replace "your-project-name" with your actual Google Cloud or Earth Engine project ID
 Create Folder named "MyProject" in google drive
 Any images downloaded are stored in this folder
 
