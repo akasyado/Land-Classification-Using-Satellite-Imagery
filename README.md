@@ -27,7 +27,8 @@ pip install -r requirements.txt
 # Authenticate Google Earth Engine
 import ee
 ee.Authenticate()
-ee.Initialize(project="your-project-name") 
+ee.Initialize(project="your-project-name")
+Replace your project name with actual google cloud or earth engine project Id
 
 Replace "your-project-name" with your actual Google Cloud or Earth Engine project ID
 Create Folder named "MyProject" in google drive
